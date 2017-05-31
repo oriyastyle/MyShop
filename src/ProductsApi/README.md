@@ -1,4 +1,4 @@
-# Welcome to ASP.NET Core
+# Welcome to ASP.NET Core 05.31.2017
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
 
