@@ -1,4 +1,4 @@
-# Summary
+# Summary 05.31.2017
 
 This repo contains a demo application developped with ASP.NET Core 1.0 that can run on Windows, Linux, using Docker containers or Azure Service Fabric.
 
